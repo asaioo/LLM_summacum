@@ -9,3 +9,4 @@ langchain
 langchain_upstage
 langchain_core
 langchain_text_splitters
+pysqlite3
